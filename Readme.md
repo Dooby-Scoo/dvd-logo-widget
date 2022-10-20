@@ -1,4 +1,5 @@
 # Requirements:
+
 1. tkinter  
 (pip install tk)
 
@@ -10,6 +11,11 @@
 
 4. lxml  
 (pip install lxml)
+
+You can get pip by running:
+
+    curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+    python get-pip.py
 
 # Usage:
     python dvd_widget [ARGS]
