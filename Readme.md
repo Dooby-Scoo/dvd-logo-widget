@@ -1,16 +1,20 @@
 # Requirements:
 
 1. tkinter  
-(pip install tk)
+        
+        pip install tk
 
 2. screeninfo  
-(pip install screeninfo)
+        
+        pip install screeninfo
 
 3. PIL  
-(pip install Pillow)
+        
+        pip install Pillow
 
 4. lxml  
-(pip install lxml)
+
+        pip install lxml
 
 You can get pip by running:
 
